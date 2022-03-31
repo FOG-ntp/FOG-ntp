@@ -2,7 +2,6 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" width="400px" height="auto" src="https://i.kym-cdn.com/photos/images/original/001/552/243/150.gif" />
 
 - 👨‍💻 I'm studying at **Vietnam-Korea University of Infomation and Communication Technology.**
 
