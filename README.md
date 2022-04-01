@@ -1,10 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ThanhPhong</h1>
-
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=HiImPhong">
-</a>
-<a href="https://github.com/HiImPhong?tab=followers"><img src="https://img.shields.io/github/followers/HiImPhong?label=Followers&style=social" alt="GitHub Badge"></a>
 </br>
 </br>
 
@@ -18,14 +12,7 @@
 </p>
 
 
-## 📫 Connect with me:
 
-<p align="left">
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-</p>
 
 ## 🚀 Something that I know:
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -88,5 +75,18 @@
 <br/>
 </p>
 
+
+## 📫 Connect with me:
+
+<p align="left">
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+</p>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=HiImPhong">
+</a>
+<a href="https://github.com/HiImPhong?tab=followers"><img src="https://img.shields.io/github/followers/HiImPhong?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
