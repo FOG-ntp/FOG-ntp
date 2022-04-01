@@ -16,10 +16,7 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-<p align="center">
-<img width="autoauto" height="150px" alt="Thanh Phong's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=HiImPhong&theme=react&hide_border=true" />
-<img align="center" height="240px" wight="auto" alt="Thanh Phong's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=HiImPhong&theme=react-dark&hide_border=true" />
-</p>
+
 
 ## 📫 Connect with me:
 
@@ -89,7 +86,6 @@
 <a><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"></a>
 <br/>
-<a><img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/c173cc26cc50560e1f682c83bd76aa6956aab2f4/github-contribution-grid-snake.svg"></a>
 </p>
 
 
