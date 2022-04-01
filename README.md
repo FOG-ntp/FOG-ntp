@@ -1,17 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ThanhPhong</h1>
 
-## 🙋‍♂️ About Me
-
-
-- 👨‍💻 I'm studying at **Vietnam-Korea University of Infomation and Communication Technology.**
-
-- 🌱 I’m currently learning **Front-End Development.**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio]**
-
-- 📫 How to reach me : **nguyenthanhphong2912002@gmail.com**
-
-- ⚡ Fun fact :  **Besides coding, I like to watch movie, listen music.**
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=HiImPhong">
@@ -19,6 +7,19 @@
 <a href="https://github.com/HiImPhong?tab=followers"><img src="https://img.shields.io/github/followers/HiImPhong?label=Followers&style=social" alt="GitHub Badge"></a>
 </br>
 </br>
+
+## 📊 My Github Stats
+
+<p align="center">
+  <a href="https://github.com/HiImPhong/github-readme-stats"><img alt="Thanh Phong's Github Stats" wight="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=HiImPhong&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/HiImPhong/github-readme-stats"><img alt="Thanh Phong's Top Languages" width="autoauto" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiImPhong&layout=compact&theme=tokyonight&hide_border=true" /></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+<p align="center">
+<img width="autoauto" height="150px" alt="Thanh Phong's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=HiImPhong&theme=react&hide_border=true" />
+<img align="center" height="240px" wight="auto" alt="Thanh Phong's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=HiImPhong&theme=react-dark&hide_border=true" />
+</p>
 
 ## 📫 Connect with me:
 
@@ -42,30 +43,7 @@
 </br>
 
 
-## 📂 My Favorite IDEs and Tools :
 
-<p align="center">
-<a><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=007ACC)"></a>
-<a><img src="https://img.shields.io/badge/-Sublime Text-FF9800?style=for-the-badge&labelColor=black&logo=sublimetext&logoColor=FF9800)"></a>
-<a><img src="https://img.shields.io/badge/-CodeSandbox-000000?style=for-the-badge&labelColor=black&logo=codesandbox&logoColor=#000000)"></a>
-<a><img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&labelColor=black&logo=AdobePhotoshop&logoColor=31A8FF)"></a>
-<a><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=Figma&logoColor=F24E1E)"></a>
-</br>
-</br>
-</p>
-
-## 📊 My Github Stats
-
-<p align="center">
-  <a href="https://github.com/HiImPhong/github-readme-stats"><img alt="Thanh Phong's Github Stats" wight="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=HiImPhong&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/HiImPhong/github-readme-stats"><img alt="Thanh Phong's Top Languages" width="autoauto" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiImPhong&layout=compact&theme=tokyonight&hide_border=true" /></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<p align="center">
-<img width="autoauto" height="150px" alt="Thanh Phong's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=HiImPhong&theme=react&hide_border=true" />
-<img align="center" height="240px" wight="auto" alt="Thanh Phong's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=HiImPhong&theme=react-dark&hide_border=true" />
-</p>
 
 ## 🎯 Things that I want to learn next:
 
@@ -114,11 +92,5 @@
 <a><img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/c173cc26cc50560e1f682c83bd76aa6956aab2f4/github-contribution-grid-snake.svg"></a>
 </p>
 
-## 🌐 What I'm Use To Deploying My Project : ##
 
-<a><img src="https://img.shields.io/badge/-GitHub%20Pages-222222?style=for-the-badge&labelColor=black&logo=GitHubPages&logoColor=222222)"></a>
-<a><img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&labelColor=black&logo=Vercel&logoColor=000000)"></a>
-<a><img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&labelColor=black&logo=DigitalOcean&logoColor=0080FF)"></a>
-<a><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=Netlify&logoColor=00C7B7)"></a>
-<a><img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=black&logo=Heroku&logoColor=430098)"></a>
 
