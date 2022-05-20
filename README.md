@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ThanhPhong</h1>
+<h1 align="center">(づ｡◕‿‿◕｡)づ I'm ThanhPhong</h1>
 
 ## 📊 My Github Stats
 
