@@ -32,6 +32,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/React%20Router-282C34?logo=React%20Router&logoColor=CA4245" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Next%20JS-282C34?logo=Next.js&logoColor=ffffff" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=Socket.io&logoColor=ffffff" alt="Socket.io logo" title="SocketIO" height="25" /></span>
@@ -61,6 +63,8 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Vite-282C34?logo=Vite&logoColor=646CFF" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
