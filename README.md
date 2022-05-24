@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm NTPhong</h1>
+<h1 align="center"><span><img src="https://img.shields.io/badge/Hi%20there%20,I'm%20Thanh%20Phong-282C34?logo=Plausible%20Analytics&logoColor=5850EC" alt="HTML5 logo" title="HTML5" height="45" /></span>
+</h1>
 
 
 <h3 align="center"> Technologies and Tools </h3>
@@ -25,6 +26,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Styled-Components-282C34?logo=styled-components&logoColor=DB7093" alt="Styled-Component logo" title="Styled-Component" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Svelte-282C34?logo=Svelte&logoColor=FF3E00" alt="Svelte logo" title="Svelte" height="25" /></span>
@@ -47,7 +50,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
