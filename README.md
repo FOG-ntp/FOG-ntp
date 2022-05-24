@@ -28,7 +28,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Styled-Components-282C34?logo=styled-components&logoColor=DB7093" alt="Styled-Component logo" title="Styled-Component" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Material%20UI-282C34?logo=MUI&logoColor=007FFF" alt="MUI logo" title="MUI" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Next%20JS-282C34?logo=Next.js&logoColor=ffffff" alt="NextJS logo" title="NextJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=Socket.io&logoColor=ffffff" alt="Socket.io logo" title="SocketIO" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Svelte-282C34?logo=Svelte&logoColor=FF3E00" alt="Svelte logo" title="Svelte" height="25" /></span>
 &nbsp;
