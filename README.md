@@ -1,82 +1,67 @@
-<h1 align="center">(づ｡◕‿‿◕｡)づ I'm ThanhPhong</h1>
+<h1 align="center">Hi there, I'm NTPhong</h1>
 
-## 📊 My Github Stats
 
+<h2 align="center"> Technologies and Tools </h2>
+<br>
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
+
+<h2 align="center"> GitHub Stats </h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
 <p align="center">
   <a href="https://github.com/HiImPhong/github-readme-stats"><img alt="Thanh Phong's Github Stats" wight="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=FOG-ntp&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/HiImPhong/github-readme-stats"><img alt="Thanh Phong's Top Languages" width="autoauto" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOG-ntp&layout=compact&theme=tokyonight&hide_border=true" /></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+<br>
 
 
-
-
-## 🚀 Something that I know:
-<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-</br>
-</br>
-<a><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-WooCommerce-96588A?style=for-the-badge&labelColor=black&logo=WooCommerce&logoColor=96588A)"></a>
-<a><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
-</br>
-</br>
-
-
-
-
-## 🎯 Things that I want to learn next:
+<h2 align="center"> Connect to me! </h2>
+<br>
+<!-- https://icons8.com -->
 
 <p align="center">
-<a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-Materialize-252B2D?style=for-the-badge&labelColor=EF1970&logo=Matomo&logoColor=EF1970)"></a>
-<a><img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&labelColor=black&logo=Bulma&logoColor=00D1B2)"></a>
-<a><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-<a><img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&labelColor=000000&logo=JSON&logoColor=000000)"></a>
-<a><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black"></a>
-<a><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999"></a>
-<a><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=for-the-badge&labelColor=black&logo=JSONWebTokens&logoColor=000000)"></a>
-<a><img src="https://img.shields.io/badge/react%20table-FF4154?style=for-the-badge&logo=react%20table&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
-<a><img src="https://img.shields.io/badge/-Next.JS-000000?style=for-the-badge&labelColor=black&logo=Next.js&logoColor=000000)"></a>
-<a><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
-<a><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"></a>
-<a><img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-Mongoose-A70023?style=for-the-badge&labelColor=black&logo=Mozilla&logoColor=A70023)"></a>
-<a><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&labelColor=black&logo=socket.io&logoColor=010101)"></a>
-<a><img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black"></a>
-<a><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"></a>
-<a><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"></a>
-<br/>
-</p>
-
-
-## 📫 Connect with me:
-
-<p align="left">
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
