@@ -54,8 +54,6 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-<br>
-
 
 <h2 align="center"> Connect to me! </h2>
 <br>
@@ -67,9 +65,11 @@
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 </p>
+
+<p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=HiImPhong">
 </a>
-<a href="https://github.com/HiImPhong?tab=followers"><img src="https://img.shields.io/github/followers/HiImPhong?label=Followers&style=social" alt="GitHub Badge"></a>
-
+<a href="https://github.com/HiImPhong?tab=followers"><img src="https://img.shields.io/github/followers/FOG-ntp?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
