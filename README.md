@@ -3,8 +3,8 @@
 ## 📊 My Github Stats
 
 <p align="center">
-  <a href="https://github.com/HiImPhong/github-readme-stats"><img alt="Thanh Phong's Github Stats" wight="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=HiImPhong&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/HiImPhong/github-readme-stats"><img alt="Thanh Phong's Top Languages" width="autoauto" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiImPhong&layout=compact&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/HiImPhong/github-readme-stats"><img alt="Thanh Phong's Github Stats" wight="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=FOG-ntp&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/HiImPhong/github-readme-stats"><img alt="Thanh Phong's Top Languages" width="autoauto" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOG-ntp&layout=compact&theme=tokyonight&hide_border=true" /></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
