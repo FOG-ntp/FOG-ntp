@@ -81,9 +81,7 @@
 </p>
 
 <h3 align="center"> Connect to me! </h3>
-<br>
 <!-- https://icons8.com -->
-
 <p align="center">
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
