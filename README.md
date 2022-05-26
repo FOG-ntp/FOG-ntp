@@ -8,6 +8,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Wix-282C34?logo=Wix&logoColor=0C6EFC" alt="Wix logo" title="Wix" height="25" /></span>
+&nbsp;
+
+<h3 align="center"> Next Time!!! </h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
@@ -68,8 +72,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Wix-282C34?logo=Wix&logoColor=0C6EFC" alt="Wix logo" title="Wix" height="25" /></span>
-&nbsp;
+
 
 <h3 align="center"> GitHub Stats </h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
