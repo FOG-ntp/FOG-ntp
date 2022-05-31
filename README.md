@@ -30,6 +30,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Wix-282C34?logo=Wix&logoColor=0C6EFC" alt="Wix logo" title="Wix" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
 
 <h3 align="center"> Next Time!!! </h3>
 
@@ -71,8 +73,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vite-282C34?logo=Vite&logoColor=646CFF" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
+
 
 
 <h3 align="center"> GitHub Stats </h3>
