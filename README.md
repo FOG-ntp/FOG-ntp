@@ -20,6 +20,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bulma-282C34?logo=Bulma&logoColor=00D1B2" alt="Bulma logo" title="Bulma" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Materialize%20CSS-282C34?logo=Matomo&logoColor=FF4F64" alt="Materialize logo" title="Materialize" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
