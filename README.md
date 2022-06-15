@@ -1,7 +1,7 @@
 <h1 align="center"><span><img src="https://img.shields.io/badge/Hi%20there%20,I'm%20Thanh%20Phong-282C34?logo=Plausible%20Analytics&logoColor=5850EC" alt="HTML5 logo" title="HTML5" height="45" /></span>
 </h1>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">Technologies and Tools</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
