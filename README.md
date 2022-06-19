@@ -4,38 +4,6 @@
 <h2 align="center">Technologies and Tools</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Gulp-282C34?logo=gulp&logoColor=CF4647" alt="Gulp logo" title="Gulp" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Pug-282C34?logo=Pug&logoColor=A86454" alt="Pug logo" title="Pug" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MaterializeCSS-282C34?logo=Matomo&logoColor=F06B66" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bulma-282C34?logo=Bulma&logoColor=00D1B2" alt="Bulma logo" title="Bulma" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=TailwindCSS&logoColor=06B6D4" alt="Tailwind logo" title="Tailwind" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Wix-282C34?logo=Wix&logoColor=0C6EFC" alt="Wix logo" title="Wix" height="25" /></span>
-&nbsp;
-
-<br>
 
 
 <h3 align="center"> GitHub Stats </h3>
